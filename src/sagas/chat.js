@@ -2,6 +2,7 @@ import { all, takeEvery, put, call } from 'redux-saga/effects';
 import * as actions from '../actions';
 import axios from 'axios'
 
+//lfconfig
 const API_URL = 'http://192.168.100.75:3001/api/'
 
 

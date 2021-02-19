@@ -29,9 +29,6 @@ const RootStack = createStackNavigator({
 
   const AppContainer = createAppContainer(RootStack);
 
-
-//Good
-
   export default class App extends Component {
   render() {
     return (
